@@ -15,6 +15,7 @@ import kotlinx.android.synthetic.main.app_bar_main.*
 /**
  *
  * Author: tipolisto.es
+ * Date: 27/2/2019
  *
  */
 
